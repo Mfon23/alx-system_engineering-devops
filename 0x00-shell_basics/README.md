@@ -1,1 +1,1 @@
-changes the working directory to the user’s home directory
+displayscurrent working directory in long format.t
