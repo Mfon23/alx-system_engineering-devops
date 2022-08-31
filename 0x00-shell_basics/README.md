@@ -1,1 +1,1 @@
-displayscurrent working directory in long format.t
+display current directory contents including hidden files
