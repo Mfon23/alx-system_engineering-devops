@@ -1,1 +1,1 @@
-changes the working directory to the previous one
+changes the working directory to the previous one.
