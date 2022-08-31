@@ -1,1 +1,1 @@
-file types
+symbolic file
