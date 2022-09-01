@@ -1,1 +1,1 @@
-changes group ownerfor all files in working directory
+changes group owner for symbolink file _helloy
