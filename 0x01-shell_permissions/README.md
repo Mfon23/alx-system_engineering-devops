@@ -1,1 +1,1 @@
-changes group owner to school for the file hello
+changes group ownerfor all files in working directory
