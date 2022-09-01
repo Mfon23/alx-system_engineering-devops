@@ -1,1 +1,1 @@
-creates a directory called my dir with permissions 751 in the working directory
+changes group owner to school for the file hello
