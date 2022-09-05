@@ -1,1 +1,1 @@
-counts the number of directories and sub-directories in a working directory
+displays the 10 newest files 
