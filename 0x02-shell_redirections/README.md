@@ -1,1 +1,1 @@
-displays the 10 newest files 
+displays lists of words that appear only once 
