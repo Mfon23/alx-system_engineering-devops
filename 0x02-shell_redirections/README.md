@@ -1,1 +1,1 @@
-Read the contents of /etc/passwd and /etc/hosts files
+displays the last 10 lines of /etc/passwds
