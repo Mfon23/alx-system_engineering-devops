@@ -1,1 +1,1 @@
-Confused smiley
+Read the contents of /etc/passwd file
