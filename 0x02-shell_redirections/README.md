@@ -1,1 +1,1 @@
-Read the contents of /etc/passwd file
+Read the contents of /etc/passwd and /etc/hosts files
