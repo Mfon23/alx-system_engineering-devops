@@ -1,1 +1,1 @@
-displays lists of words that appear only once 
+Display lines containing the pattern “root” from the file /etc/passwd 
