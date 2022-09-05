@@ -1,1 +1,1 @@
-displays the first ten lines of /etc/passwd
+displays the first three lines of iactad
